@@ -1,0 +1,1 @@
+# Patika-Akademi-Veri-Yapilari-ve-Algoritmalar
